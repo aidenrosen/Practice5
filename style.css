@@ -1,0 +1,50 @@
+*
+{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.nav
+{
+    background-color: rgb(212, 212, 212);
+    margin-bottom: 30px;
+}    
+
+#logo
+{
+    margin: 2%;
+    background-color: rgb(233, 233, 233);
+}
+
+footer, .importantContent
+{
+    background-color: rgb(0, 108, 170);
+}
+.card-body
+{
+    font-size: small;
+}
+
+.card-head
+{
+    font-size: medium;
+}
+
+
+#importantText
+{
+    color:white;
+}
+
+.notVital
+{
+    background-color: rgb(212, 212, 212);
+}
+
+#navContainer
+{
+    background-color: rgb(212, 212, 212);
+    width: 100%;
+
+}
+
