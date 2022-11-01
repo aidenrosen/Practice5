@@ -1,13 +1,75 @@
+*
+{
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+
 .navbar-brand
 {
     margin-left: 0px;
 }
 
+.container-fluid
+{
+    margin: 0px;
+    padding: 0px;
+}
+
 header
 {
-    background: url(images/nyc.png);
+    background: url(images/cover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    min-height: 1000px;
+    min-height:1000px;
 }
+
+#logoRow
+{
+    padding-top: 5%;
+}
+
+#headlineRow
+{
+    padding-top: 5%;
+
+}
+
+.tagline {
+    font-size: 26px;
+    margin: 45px 0 75px 0;
+    color: white;
+  }
+
+  footer{
+    background: #199EB8;
+  }
+
+  .btn {
+    background-color: #199EB8;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    color: #fff;
+    padding: 15px 45px;
+    border-radius: 50px;
+  }
+
+ li
+ {
+    color:white
+ }
+
+ .socials a
+ {
+    color: rgba(255, 255, 255, 0.8);
+    padding-left: 8px;
+    display: inline-block;
+    line-height: 0px;
+    transition: 0.3s;
+ }
+
+
+ .socials a i
+ {
+    font-size: 24px;
+    line-height: 0px;
+ }

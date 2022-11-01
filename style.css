@@ -4,6 +4,7 @@
 }
 
 
+
 .nav
 {
     background-color: rgb(212, 212, 212);
@@ -41,10 +42,11 @@ footer, .importantContent
     background-color: rgb(212, 212, 212);
 }
 
-#navContainer
+#navRow
 {
     background-color: rgb(212, 212, 212);
     width: auto;
+    margin-bottom: 2%;
 
 }
 
