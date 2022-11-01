@@ -1,0 +1,13 @@
+.navbar-brand
+{
+    margin-left: 0px;
+}
+
+header
+{
+    background: url(images/nyc.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 1000px;
+}
